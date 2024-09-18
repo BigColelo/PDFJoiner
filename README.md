@@ -1,4 +1,4 @@
-# PdfJoiner
+# PDFJoiner
 
 PdfJoiner è un'applicazione Windows Forms sviluppata in C# per unire più file PDF in un unico documento. 
 Gli utenti possono selezionare i file PDF, rimuoverli dalla lista e salvare il PDF unito in una posizione e nominarli come desiderano.
